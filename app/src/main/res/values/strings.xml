@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GlassesConvert</string>
+    <string name="txt_classes">стаканов воды за день</string>
+    <string name="btn_classes">Выпила 1 стакан воды</string>
+</resources>
