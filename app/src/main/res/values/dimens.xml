@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="fon_border">10dp</dimen>
+    <dimen name="TextViewWidth">250dp</dimen>
+    <dimen name="TextViewHeight">200dp</dimen>
+    <dimen name="TextViewSize">50sp</dimen>
 </resources>

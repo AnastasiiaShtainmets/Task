@@ -8,12 +8,12 @@
 
     <TextView
         android:id="@+id/txt_counter"
-        android:layout_width="250dp"
-        android:layout_height="200dp"
+        android:layout_width="@dimen/TextViewWidth"
+        android:layout_height="@dimen/TextViewHeight"
         android:background="@drawable/ground"
         android:gravity="center"
         android:textColor="@color/text"
-        android:textSize="50sp" />
+        android:textSize="@dimen/TextViewSize" />
 
     <TextView
         android:layout_width="wrap_content"
